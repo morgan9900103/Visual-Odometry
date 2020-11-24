@@ -1,3 +1,3 @@
 # VisualOdometry
 
-practice code for vo
+Implemented a front-end (Visual Odometry) with local map for ORB-SLAM
