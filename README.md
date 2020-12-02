@@ -1,3 +1,3 @@
 # VisualOdometry
 
-Implemented a front-end (Visual Odometry) with local map for ORB-SLAM
+A Keyframe-based Monocular Visual Odometry
