@@ -1,3 +1,3 @@
 # VisualOdometry
 
-A Keyframe-based Monocular Visual Odometry
+A Keyframe-based RGBD Visual Odometry
